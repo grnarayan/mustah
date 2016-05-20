@@ -1,0 +1,17 @@
+{
+    "name": "mustah/laravel-rabbitmq",
+    "description": "Laravel RabbitMQ",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.2.*",
+        "illuminate/queue": "5.2.*",
+        "php-amqplib/php-amqplib": "2.6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mustah\\": "src/"
+        }
+    }
+}
