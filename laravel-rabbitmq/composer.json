@@ -1,5 +1,6 @@
 {
     "name": "mustah/laravel-rabbitmq",
+    "type": "library",
     "description": "Laravel RabbitMQ",
     "license": "MIT",
     "minimum-stability": "dev",
