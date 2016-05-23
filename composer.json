@@ -1,5 +1,5 @@
 {
-    "name": "mustah/laravel-rabbitmq",
+    "name": "grnarayan/mustah",
     "type": "library",
     "description": "Laravel RabbitMQ",
     "license": "MIT",
